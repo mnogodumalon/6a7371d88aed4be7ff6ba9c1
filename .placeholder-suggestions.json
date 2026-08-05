@@ -1,0 +1,9 @@
+{
+  "DateneingabeDialog.tsx": {
+    "vorname": "z. B. Anna",
+    "nachname": "z. B. Müller",
+    "email": "z. B. anna@example.com",
+    "telefon": "z. B. +49 30 123456",
+    "bemerkungen": "Notizen, besondere Angaben, Kontextinformationen..."
+  }
+}

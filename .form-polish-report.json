@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Dateneingabe": {
+      "placeholders_set": 5,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Erfassungsform ohne Berechnungen. Keine number-Felder, keine Datumspaare, keine applookups — nichts berechenbar."
+    }
+  }
+}
